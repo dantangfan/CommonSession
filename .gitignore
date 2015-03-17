@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+*.so
+*.class
+*~
+build/
+/dist/
+MANIFEST
+/tornado.egg-info/
+.tox/
+.vagrant
+/.coverage
+/htmlcov/
+/env/
